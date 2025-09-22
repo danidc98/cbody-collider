@@ -1,7 +1,7 @@
 # cbody-collider
 This is my end of degree project of Electronic Engineering: A 3D animated celestial body collider which implements the Barnes-Hut algorithm
 
-Download the zip and just execute from a directory inside the project:
+Download the zip, unzip it and just execute, from a directory inside the project:
 
 mvn clean javafx:run
 
