@@ -8,4 +8,4 @@ mvn clean javafx:run
 
 It will appear a window with the application. Try it :)
 if your computer can't handle the calculations, try increasing the Barnes-Hut parameter and you will see the true power of this application!
-If you have doubts or some interest, you can ask me :)
+If you have doubts or some interest, you can ask me through ddcg98@gmail.com :)
